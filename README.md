@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/haripriya1028/leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/haripriya1028/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/haripriya1028/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/haripriya1028/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/haripriya1028/leetcode/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/haripriya1028/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/haripriya1028/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/haripriya1028/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/haripriya1028/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/haripriya1028/leetcode/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
