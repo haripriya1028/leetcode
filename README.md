@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/haripriya1028/leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/haripriya1028/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/haripriya1028/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0215-kth-largest-element-in-an-array](https://github.com/haripriya1028/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/haripriya1028/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/haripriya1028/leetcode/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/haripriya1028/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -21,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/haripriya1028/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/haripriya1028/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/haripriya1028/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/haripriya1028/leetcode/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/haripriya1028/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/haripriya1028/leetcode/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/haripriya1028/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/haripriya1028/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -36,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/haripriya1028/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/haripriya1028/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/haripriya1028/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/haripriya1028/leetcode/tree/master/0912-sort-an-array) |
@@ -157,5 +161,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/haripriya1028/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/haripriya1028/leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
