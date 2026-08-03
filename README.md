@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/haripriya1028/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/haripriya1028/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/haripriya1028/leetcode/tree/master/0682-baseball-game) |
+| [0875-koko-eating-bananas](https://github.com/haripriya1028/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/haripriya1028/leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/haripriya1028/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/haripriya1028/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/haripriya1028/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/haripriya1028/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0875-koko-eating-bananas](https://github.com/haripriya1028/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
