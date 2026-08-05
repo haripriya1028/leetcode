@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/haripriya1028/leetcode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/haripriya1028/leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/haripriya1028/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/haripriya1028/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/haripriya1028/leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/haripriya1028/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/haripriya1028/leetcode/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/haripriya1028/leetcode/tree/master/0219-contains-duplicate-ii) |
