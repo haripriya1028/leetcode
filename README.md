@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/haripriya1028/leetcode/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/haripriya1028/leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/haripriya1028/leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/haripriya1028/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/haripriya1028/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/haripriya1028/leetcode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/haripriya1028/leetcode/tree/master/0682-baseball-game) |
 ## Sliding Window
 |  |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/haripriya1028/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/haripriya1028/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/haripriya1028/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
