@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/haripriya1028/leetcode/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/haripriya1028/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/haripriya1028/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/haripriya1028/leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/haripriya1028/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/haripriya1028/leetcode/tree/master/0075-sort-colors) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/haripriya1028/leetcode/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/haripriya1028/leetcode/tree/master/0621-task-scheduler) |
 | [0881-boats-to-save-people](https://github.com/haripriya1028/leetcode/tree/master/0881-boats-to-save-people) |
 ## Math
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/haripriya1028/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/haripriya1028/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/haripriya1028/leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Stack
