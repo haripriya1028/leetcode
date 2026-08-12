@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/haripriya1028/leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/haripriya1028/leetcode/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/haripriya1028/leetcode/tree/master/0796-rotate-string) |
 ## String Matching
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/haripriya1028/leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/haripriya1028/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/haripriya1028/leetcode/tree/master/0682-baseball-game) |
 ## Simulation
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/haripriya1028/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/haripriya1028/leetcode/tree/master/0073-set-matrix-zeroes) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/haripriya1028/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
