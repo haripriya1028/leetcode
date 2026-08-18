@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/haripriya1028/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/haripriya1028/leetcode/tree/master/0075-sort-colors) |
 | [0658-find-k-closest-elements](https://github.com/haripriya1028/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/haripriya1028/leetcode/tree/master/0881-boats-to-save-people) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/haripriya1028/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/haripriya1028/leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/haripriya1028/leetcode/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/haripriya1028/leetcode/tree/master/0796-rotate-string) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/haripriya1028/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/haripriya1028/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/haripriya1028/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/haripriya1028/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -219,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/haripriya1028/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/haripriya1028/leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/haripriya1028/leetcode/tree/master/0183-customers-who-never-order) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/haripriya1028/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
