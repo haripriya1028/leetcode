@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/haripriya1028/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/haripriya1028/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/haripriya1028/leetcode/tree/master/1046-last-stone-weight) |
+| [1386-cinema-seat-allocation](https://github.com/haripriya1028/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3731-find-missing-elements](https://github.com/haripriya1028/leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/haripriya1028/leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/haripriya1028/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/haripriya1028/leetcode/tree/master/0621-task-scheduler) |
+| [1386-cinema-seat-allocation](https://github.com/haripriya1028/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3731-find-missing-elements](https://github.com/haripriya1028/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/haripriya1028/leetcode/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/haripriya1028/leetcode/tree/master/0621-task-scheduler) |
 | [0881-boats-to-save-people](https://github.com/haripriya1028/leetcode/tree/master/0881-boats-to-save-people) |
+| [1386-cinema-seat-allocation](https://github.com/haripriya1028/leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Math
 |  |
 | ------- |
@@ -226,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/haripriya1028/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/haripriya1028/leetcode/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
