@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/haripriya1028/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/haripriya1028/leetcode/tree/master/1046-last-stone-weight) |
 | [1386-cinema-seat-allocation](https://github.com/haripriya1028/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/haripriya1028/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/haripriya1028/leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/haripriya1028/leetcode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/haripriya1028/leetcode/tree/master/0682-baseball-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/haripriya1028/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sliding Window
 |  |
 | ------- |
