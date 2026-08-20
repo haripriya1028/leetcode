@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/haripriya1028/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/haripriya1028/leetcode/tree/master/0621-task-scheduler) |
 | [1386-cinema-seat-allocation](https://github.com/haripriya1028/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/haripriya1028/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/haripriya1028/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/haripriya1028/leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/haripriya1028/leetcode/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/haripriya1028/leetcode/tree/master/0796-rotate-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/haripriya1028/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String Matching
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/haripriya1028/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/haripriya1028/leetcode/tree/master/0658-find-k-closest-elements) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/haripriya1028/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Union-Find
 |  |
 | ------- |
