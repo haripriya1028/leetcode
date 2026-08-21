@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/haripriya1028/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0326-power-of-three](https://github.com/haripriya1028/leetcode/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/haripriya1028/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/haripriya1028/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search
@@ -238,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/haripriya1028/leetcode/tree/master/1386-cinema-seat-allocation) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/haripriya1028/leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
