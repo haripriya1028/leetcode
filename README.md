@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/haripriya1028/leetcode/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/haripriya1028/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/haripriya1028/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/haripriya1028/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
 |  |
 | ------- |
