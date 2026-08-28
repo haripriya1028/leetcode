@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/haripriya1028/leetcode/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/haripriya1028/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/haripriya1028/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/haripriya1028/leetcode/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/haripriya1028/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/haripriya1028/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/haripriya1028/leetcode/tree/master/0057-insert-interval) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/haripriya1028/leetcode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/haripriya1028/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/haripriya1028/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/haripriya1028/leetcode/tree/master/0229-majority-element-ii) |
@@ -270,5 +272,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/haripriya1028/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/haripriya1028/leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/haripriya1028/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
