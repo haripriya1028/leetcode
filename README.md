@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/haripriya1028/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/haripriya1028/leetcode/tree/master/1046-last-stone-weight) |
 | [1386-cinema-seat-allocation](https://github.com/haripriya1028/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/haripriya1028/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/haripriya1028/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/haripriya1028/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/haripriya1028/leetcode/tree/master/3731-find-missing-elements) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/haripriya1028/leetcode/tree/master/0621-task-scheduler) |
 | [0881-boats-to-save-people](https://github.com/haripriya1028/leetcode/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/haripriya1028/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/haripriya1028/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Math
 |  |
 | ------- |
