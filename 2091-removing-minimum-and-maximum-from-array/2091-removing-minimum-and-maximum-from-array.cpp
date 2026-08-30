@@ -2,18 +2,14 @@ class Solution {
 public:
     int minimumDeletions(vector<int>& nums) {
         int i;
-        int maxi=nums[0];
-        int mini=nums[0];
         int indexmax=0; 
         int indexmin=0;
         int n=nums.size();
         for(i=0; i<nums.size(); i++){
-            if(nums[i]>maxi){
-                maxi=nums[i];
+            if(nums[i]>nums[indexmax]){
                 indexmax=i;
             }
-            if(nums[i]<mini){
-                mini=nums[i];
+            if(nums[i]<nums[indexmin]){
                 indexmin=i;
             }
         }
