@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/haripriya1028/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/haripriya1028/leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/haripriya1028/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/haripriya1028/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/haripriya1028/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/haripriya1028/leetcode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/haripriya1028/leetcode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/haripriya1028/leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/haripriya1028/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/haripriya1028/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/haripriya1028/leetcode/tree/master/0242-valid-anagram) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/haripriya1028/leetcode/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/haripriya1028/leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/haripriya1028/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/haripriya1028/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/haripriya1028/leetcode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/haripriya1028/leetcode/tree/master/0148-sort-list) |
 | [0658-find-k-closest-elements](https://github.com/haripriya1028/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/haripriya1028/leetcode/tree/master/0881-boats-to-save-people) |
 ## Prefix Sum
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/haripriya1028/leetcode/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/haripriya1028/leetcode/tree/master/0148-sort-list) |
 ## Design
 |  |
 | ------- |
