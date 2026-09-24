@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/haripriya1028/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/haripriya1028/leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/haripriya1028/leetcode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/haripriya1028/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/haripriya1028/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/haripriya1028/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/haripriya1028/leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/haripriya1028/leetcode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/haripriya1028/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/haripriya1028/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -295,10 +297,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/haripriya1028/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/haripriya1028/leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/haripriya1028/leetcode/tree/master/0078-subsets) |
+| [0113-path-sum-ii](https://github.com/haripriya1028/leetcode/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/haripriya1028/leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/haripriya1028/leetcode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/haripriya1028/leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
